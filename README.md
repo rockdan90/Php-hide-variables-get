@@ -1,1 +1,1 @@
-Hide value of variables passed by get method
+Hide value of variables passed by get method by PHP
